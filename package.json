@@ -78,7 +78,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-drawer-layout": "git+https://github.com/nautilusdigital/react-native-drawer-layout.git#fix-windows-scroll"
+    "react-native-drawer-layout": "git+https://github.com/anumang/react-native-drawer-layout.git"
   },
   "peerDependencies": {
     "react-native": "*"
